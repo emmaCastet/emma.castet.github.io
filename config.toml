@@ -1,4 +1,4 @@
-baseURL = "http://emma.castet.github.io"
+baseURL = "https://emmacastet.github.io/emma.castet.github.io/"
 languageCode = "en-us"
 theme = "sada"
 disableKinds = ["taxonomy", "taxonomyTerm"]
